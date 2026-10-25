@@ -18,20 +18,20 @@ SPARQLWrapper==2.0.0
 # =========================
 # HTTP / crawling
 # =========================
-requests==2.32.3
-aiohttp==3.9.5
-urllib3==2.2.2
+requests==2.33.0
+aiohttp==3.14.4
+urllib3==2.8.0
 
 # =========================
 # HTML / parsing
 # =========================
 beautifulsoup4==4.12.3
-lxml==5.2.2
+lxml==6.1.0
 
 # =========================
 # Git repository handling
 # =========================
-GitPython==3.1.43
+GitPython==3.2.1
 
 # =========================
 # Data validation
